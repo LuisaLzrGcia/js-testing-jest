@@ -8,18 +8,6 @@ Este proyecto contiene una serie de ejercicios evaluativos sobre desarrollo orie
 - Node.js
 - Jest (para pruebas unitarias)
 
-## 📂 Estructura del proyecto
-/js
-/calculator
-- calculator.js
-- calculator.test.js
-/user
-- user.js
-- user-controller.js
-- user-controller.test.js
-- README.md
-- package.json
-
 ## ✅ Funcionalidades
 
 - Funciones matemáticas: `add()`, `subtract()`, `multiply()`, `divide()`
