@@ -17,8 +17,8 @@ Este proyecto contiene una serie de ejercicios evaluativos sobre desarrollo orie
 - user.js
 - user-controller.js
 - user-controller.test.js
-README.md
-package.json
+- README.md
+- package.json
 
 ## ✅ Funcionalidades
 
